@@ -1,6 +1,8 @@
 # SuperStore-Sales-Dashboard
 
-This Power BI project involves the creation of a well-designed dashboard that incorporates advanced charts, maps, interactive filters, and slicers. The project will also demonstrate the application of forecasting techniques within Power BI.
+Developed a user-friendly Sales Dashboard in PowerBI, featuring advanced charting, interactive filters, and slicers, 
+while also integrating forecasting functionality to predict sales for the next 15 days.
+
 
 
 ![dashboard1](https://github.com/MinalJain17/SuperStore-Sales-Dashboard/assets/132137245/bdb605df-814b-4a11-a9fb-3685fa1e48eb)
