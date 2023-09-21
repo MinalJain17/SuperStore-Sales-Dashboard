@@ -1,7 +1,10 @@
-# SuperStore-Sales-Dashboard
+# Objective
 
 Developed a user-friendly Sales Dashboard in PowerBI, featuring advanced charting, interactive filters, and slicers, 
 while also integrating forecasting functionality to predict sales for the next 15 days.
+
+
+# Dashboard
 
 
 
