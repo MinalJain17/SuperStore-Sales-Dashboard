@@ -4,7 +4,8 @@ The project aims to create an intuitive Sales Dashboard using PowerBI to extract
 
 # Data Preprocessing
 
-Performed in-depth sales data analysis for a superstore using Excel and applied data cleaning and transformation techniques using Power Query in Power BI.
+The dataset contains historical sales and profit data for two years i.e. 2019 and 2020, customer information, product information, regional data, and order information. 
+Conducted comprehensive analysis of sales data for a superstore using Excel and applied data cleaning and transformation methods within Power Query in Power BI. This involved addressing data inconsistencies and handling missing data.
 
 # Dashboard
 
