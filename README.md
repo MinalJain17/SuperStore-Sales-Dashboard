@@ -1,6 +1,6 @@
 # Objective
 
-The goal of the project is to create an intuitive Sales Dashboard using PowerBI. This dashboard will incorporate advanced charting, interactive filtering, and slicers for enhanced user experience. Additionally, it will include forecasting capabilities to predict sales for the upcoming 15 days.
+The project aims to create an intuitive Sales Dashboard using PowerBI to extract valuable insights. This dashboard will incorporate advanced charting, interactive filtering, and slicers for enhanced user experience. Additionally, it will include forecasting capabilities to predict sales for the upcoming 15 days. Ultimately, the aim is to equip the superstore with data-driven tools to facilitate informed decision-making.
 
 # Data Preprocessing
 
