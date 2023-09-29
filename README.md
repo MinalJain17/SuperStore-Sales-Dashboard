@@ -8,7 +8,7 @@ Performed in-depth sales data analysis for a superstore using Excel and applied 
 
 # Dashboard
 
-Leveraged PowerBI visualization tools and DAX functions to design insightful charts and user-friendly dashboard.Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights.
+Leveraged PowerBI visualization tools and DAX functions to design insightful charts and user-friendly dashboard. Users have the flexibility to apply real-time filters, enabling a targeted analysis of specific metrics and facilitating deeper insights.
 
    ![dashboard1](https://github.com/MinalJain17/SuperStore-Sales-Dashboard/assets/132137245/bdb605df-814b-4a11-a9fb-3685fa1e48eb)
 
@@ -16,5 +16,9 @@ Implemented dynamic filters, slicers, and forecasting functionality to predict s
 
    ![2](https://github.com/MinalJain17/SuperStore-Sales-Dashboard/assets/132137245/4bbd97f8-2f77-482e-904d-f06bba48d316)
 
-# Challenges and Learning
+# Challenges and Learnings
+
+ 1. Proficiency in Chart Selection: Recognizing the appropriate chart types and their respective applications.
+ 2. Regional Analysis: Recognizing the importance of regional-specific insights, necessitating context-aware analysis through filters and slicers.
+ 3. Boosting Customer Engagement: Acquiring an understanding of customer preferences to improve engagement and enhance the dashboard's visual appeal.
 
